@@ -1,0 +1,54 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="CloseAllUnpinnedEditors">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorDuplicate" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+</keymap>
