@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'UnderwritingService'" />
-    <option name="defaultScopeName" value="Module 'UnderwritingService'" />
-    <option name="SEARCH_SCOPE" value="Module 'UnderwritingService'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
