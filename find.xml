@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../UnderwritingService/src/main/java/com/nextinsurance/underwriting/providers/UnderwritingProviderWrapper.kt - [UnderwritingService]'" />
+    <option name="defaultScopeName" value="File '.../UnderwritingService/src/main/java/com/nextinsurance/underwriting/providers/UnderwritingProviderWrapper.kt - [UnderwritingService]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../UnderwritingService/src/main/java/com/nextinsurance/underwriting/providers/UnderwritingProviderWrapper.kt - [UnderwritingService]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
