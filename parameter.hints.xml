@@ -1,13 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Java" />
-      <blacklist language="Groovy" />
       <blacklist language="Kotlin">
-        <added pattern="org.junit.Assert.assertEquals(expected,actual)" />
+        <added pattern="com.nextinsurance.api.addDaysToDate(numOfDays)" />
       </blacklist>
     </blacklists>
-    <option id="SHOW_PARAMETER_HINT" value="false" />
-    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
 </application>
