@@ -4,4 +4,5 @@
     <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
     <option name="m_ignoreAnnotatedVariables" value="false" />
   </inspection_tool>
+  <inspection_tool class="UseExpressionBody" enabled="false" level="INFO" enabled_by_default="false" />
 </profile>
