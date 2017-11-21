@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="JumpToLastWindow" />
+  <action id="KotlinConsoleREPL">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f2" />
