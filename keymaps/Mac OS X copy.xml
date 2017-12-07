@@ -15,7 +15,7 @@
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id="Compare.Selected">
-    <keyboard-shortcut first-keystroke="meta w" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="ContextHelp" />
   <action id="EditorCodeBlockEnd" />
@@ -27,7 +27,6 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
   </action>
-  <action id="EditorSelectWord" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -59,4 +58,5 @@
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
