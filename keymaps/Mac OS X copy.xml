@@ -27,6 +27,7 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="FileChooser.NewFolder" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -34,6 +35,7 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
