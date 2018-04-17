@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../NimiService/src/main/java/com/nextinsurance/nimi/resources/BusinessResource.kt [NimiService]'" />
-    <option name="defaultScopeName" value="File '.../NimiService/src/main/java/com/nextinsurance/nimi/resources/BusinessResource.kt [NimiService]'" />
-    <option name="SEARCH_SCOPE" value="File '.../NimiService/src/main/java/com/nextinsurance/nimi/resources/BusinessResource.kt [NimiService]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
