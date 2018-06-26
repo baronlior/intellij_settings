@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../SystemTests/src/test/java/com/nextinsurance/underwriting/it/portal [SystemTests]'" />
+    <option name="defaultScopeName" value="Directory '.../SystemTests/src/test/java/com/nextinsurance/underwriting/it/portal [SystemTests]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '.../SystemTests/src/test/java/com/nextinsurance/underwriting/it/portal [SystemTests]'" />
     <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
