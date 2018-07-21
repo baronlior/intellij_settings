@@ -26,12 +26,15 @@
           <option name="url" value="https://github.com/baronlior/coding_dojo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/next-insurance/employee_on_boarding.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Lior\next\code" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
 </application>
