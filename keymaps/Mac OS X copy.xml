@@ -67,4 +67,7 @@
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
 </keymap>
