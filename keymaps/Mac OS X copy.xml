@@ -47,11 +47,12 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="Hotswap">
-    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="JumpToLastWindow" />
-  <action id="KotlinConsoleREPL">
-    <keyboard-shortcut first-keystroke="shift meta r" />
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="MinimizeCurrentWindow" />
   <action id="NextDiff">
@@ -65,7 +66,7 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
-  <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="f12" />
