@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/next-insurance/employee_on_boarding.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JetBrains/kotlin-benchmarks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Lior\next\code" />
+    <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/C:\Users\Lior\next\code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
