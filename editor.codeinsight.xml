@@ -2,4 +2,5 @@
   <component name="CodeInsightSettings">
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Kotlin All" />
 </application>
