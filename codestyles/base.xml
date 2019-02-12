@@ -35,7 +35,7 @@
     </option>
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="10" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="6" />
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OLD_DEFAULTS" />
   </JetCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
@@ -74,7 +74,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OLD_DEFAULTS" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
