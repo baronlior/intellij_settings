@@ -13,7 +13,6 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern="2018_09_28_remove_glDeductible_limits.sql" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="2018_09_28_remove_glDeductible_limits" type="SQL" />
       <removed_mapping pattern="Dockerfile-local" approved="true" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
