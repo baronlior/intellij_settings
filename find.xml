@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../src/app [application]'" />
+    <option name="defaultScopeName" value="Directory '.../src/app [application]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/app [application]'" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,5 +16,6 @@
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.rb</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
