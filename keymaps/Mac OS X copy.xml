@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="ContextHelp" />
+  <action id="CopyPaths" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorDecreaseFontSize">
@@ -74,5 +75,8 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
 </keymap>
