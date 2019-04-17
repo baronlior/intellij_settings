@@ -68,6 +68,7 @@
   <inspection_tool class="ClassInitializerMayBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ClassMayBeInterface" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="CloneDeclaresCloneNotSupported" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="CloneDetection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CodeBlock2Expr" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CollectionAddAllCanBeReplacedWithConstructor" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CollectionAddedToSelf" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -100,7 +101,7 @@
   <inspection_tool class="Convert2Lambda" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Convert2MethodRef" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Convert2streamapi" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="ConvertCallChainIntoSequence" enabled="false" level="UNUSED ENTRY" enabled_by_default="false" />
+  <inspection_tool class="ConvertCallChainIntoSequence" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CopyConstructorMissesField" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CsvValidation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DanglingJavadoc" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -666,7 +667,7 @@
       </value>
     </option>
   </inspection_tool>
-  <inspection_tool class="unused" enabled="false" level="WARNING" enabled_by_default="false" isSelected="false">
+  <inspection_tool class="unused" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="LOCAL_VARIABLE" value="true" />
     <option name="FIELD" value="true" />
     <option name="METHOD" value="true" />
