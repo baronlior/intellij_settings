@@ -1,7 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isMaterialDesign" value="false" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="LIGHT_CUSTOM" />
+    <option name="accentColor" value="31922b" />
     <option name="userId" value="-3d7f2fb6:1696cb7622f:-8000" />
     <option name="version" value="3.9.1" />
   </component>
