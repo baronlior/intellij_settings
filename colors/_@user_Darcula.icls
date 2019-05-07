@@ -3,19 +3,51 @@
     <property name="created">2019-03-04T09:04:44</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-04T09:15:18</property>
+    <property name="modified">2019-05-05T16:32:15</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
+    <option name="CARET_COLOR" value="b4bbb7" />
+    <option name="FILESTATUS_ADDED" value="91b859" />
+    <option name="FILESTATUS_DELETED" value="59626f" />
+    <option name="FILESTATUS_HIJACKED" value="c679dd" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_MERGED" value="61aeef" />
+    <option name="FILESTATUS_MODIFIED" value="e2c08d" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
+    <option name="FILESTATUS_SWITCHED" value="61aeef" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="98c379" />
+    <option name="FILESTATUS_changelistConflict" value="ff6347" />
+    <option name="FILESTATUS_modifiedOutside" value="e5c17c" />
+    <option name="INDENT_GUIDE" value="371425" />
+    <option name="RIGHT_MARGIN_COLOR" value="4d4918" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="3c3f41" />
   </colors>
   <attributes>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="5498b2" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="152014" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
