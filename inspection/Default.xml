@@ -32,6 +32,7 @@
   <inspection_tool class="CloneDetection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CsvValidation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DeprecatedClassUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="HtmlExtraClosingTag" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="HtmlMissingClosingTag" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="HtmlUnknownAnchorTarget" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -62,14 +63,18 @@
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
   <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="Json5StandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JsonDuplicatePropertyKeys" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonSchemaCompliance" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonSchemaDeprecation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonSchemaRefReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JsonStandardCompliance" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="RequiredAttributes" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="RequiredAttributes" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myAdditionalRequiredHtmlAttributes" value="" />
+  </inspection_tool>
   <inspection_tool class="SimplifiableCallChain" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="XmlDefaultAttributeValue" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XmlDeprecatedElement" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
