@@ -16,5 +16,6 @@
     <mask>*.mxml</mask>
     <mask>*.sh</mask>
     <mask>*.rb</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
