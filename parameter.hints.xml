@@ -5,5 +5,10 @@
         <added pattern="com.nextinsurance.api.addDaysToDate(numOfDays)" />
       </blacklist>
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+    </disabledLanguages>
   </component>
 </application>
