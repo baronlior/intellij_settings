@@ -17,5 +17,6 @@
     <mask>*.sh</mask>
     <mask>*.rb</mask>
     <mask>*.kt</mask>
+    <mask>*Server.java</mask>
   </component>
 </application>
