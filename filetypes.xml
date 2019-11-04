@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.sql.future" type="DBN-SQL" />
       <mapping pattern="2018_09_28_remove_glDeductible_limits.sql" type="PLAIN_TEXT" />
       <mapping pattern="PrintLnExt.kt" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
@@ -18,17 +19,6 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="2018_09_28_remove_glDeductible_limits" approved="true" type="SQL" />
       <mapping ext="conf" type="nginx file type" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping pattern="*.sql.future" type="DBN-SQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Dockerfile-local" type="Dockerfile" />
     </extensionMap>
   </component>
