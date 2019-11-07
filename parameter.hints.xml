@@ -1,14 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="Java" />
       <blacklist language="Kotlin">
         <added pattern="com.nextinsurance.api.addDaysToDate(numOfDays)" />
+        <added pattern="com.ni.docgen.common.DocGenTestUtils.addContainsPredicate(formNumber)" />
       </blacklist>
     </blacklists>
-    <disabledLanguages>
-      <language id="TypeScript" />
-      <language id="Angular2Html" />
-      <language id="JavaScript" />
-    </disabledLanguages>
+    <option id="SHOW_PARAMETER_HINT" value="false" />
   </component>
 </application>
