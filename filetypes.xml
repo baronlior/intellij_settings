@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.sql.future" type="DBN-SQL" />
-      <mapping pattern="2018_09_28_remove_glDeductible_limits.sql" type="PLAIN_TEXT" />
       <mapping pattern="PrintLnExt.kt" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
+      <mapping pattern="2018_09_28_remove_glDeductible_limits.sql" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
