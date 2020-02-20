@@ -60,6 +60,12 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="f7" />
   </action>
+  <action id="OfflineModule.DisableModuleAction">
+    <keyboard-shortcut first-keystroke="shift braceleft" />
+  </action>
+  <action id="OfflineModule.LoadModuleAction">
+    <keyboard-shortcut first-keystroke="shift braceright" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
@@ -71,6 +77,7 @@
   <action id="ShowParameterHintsSettings">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="ShowSettings" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="f12" />
