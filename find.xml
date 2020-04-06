@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../PortfolioService/src/main/java/com/ni/portfolio [PortfolioService]'" />
-    <option name="defaultScopeName" value="Directory '.../PortfolioService/src/main/java/com/ni/portfolio [PortfolioService]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../PortfolioService/src/main/java/com/ni/portfolio [PortfolioService]'" />
+    <option name="customScope" value="Project 'base'" />
+    <option name="defaultScopeName" value="Project 'base'" />
+    <option name="SEARCH_SCOPE" value="Project 'base'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
