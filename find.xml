@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../NimiService [NimiService]'" />
-    <option name="defaultScopeName" value="Directory '.../NimiService [NimiService]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../NimiService [NimiService]'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
