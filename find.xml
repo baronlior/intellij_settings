@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../NimiService/src/main/java/com/nextinsurance/nimi/handlers/policychanges/v2 [NimiService]'" />
+    <option name="defaultScopeName" value="Directory '.../NimiService/src/main/java/com/nextinsurance/nimi/handlers/policychanges/v2 [NimiService]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../NimiService/src/main/java/com/nextinsurance/nimi/handlers/policychanges/v2 [NimiService]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
