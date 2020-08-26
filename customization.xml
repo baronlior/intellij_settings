@@ -5,5 +5,23 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="InvalidateCaches" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PasteMultiple" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorToggleColumnMode" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="InvalidateCaches" icon="$USER_HOME$/Downloads/SAnet.st.85-computer-programming-line-icons/PNG/256px/Agile.png" />
+    <action id="PasteMultiple" icon="$USER_HOME$/Downloads/SAnet.st.85-computer-programming-line-icons/PNG/256px/Full-Stack Designer.png" />
+    <action id="EditorToggleColumnMode" icon="$USER_HOME$/Downloads/SAnet.st.85-computer-programming-line-icons/PNG/256px/Command Line.png" />
   </component>
 </application>
