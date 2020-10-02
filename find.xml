@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ST.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +19,6 @@
     <mask>*.rb</mask>
     <mask>*Server.java</mask>
     <mask>*.kt</mask>
+    <mask>*ST.kt</mask>
   </component>
 </application>
