@@ -19,5 +19,6 @@
     <mask>*Server.java</mask>
     <mask>*.kt</mask>
     <mask>*ST.kt</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
