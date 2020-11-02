@@ -274,6 +274,7 @@
   <inspection_tool class="ImplicitArrayToString" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ImplicitSubclassInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="IncompatibleMask" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="IncompleteDestructuring" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="IncompleteProperty" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="InconsistentResourceBundle" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="IndexOfReplaceableByContains" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -679,11 +680,6 @@
   <inspection_tool class="UseVirtualFileEquals" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="VarargParameter" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="VariableTypeCanBeExplicit" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="WeakerAccess" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="true" />
-    <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
-    <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
-  </inspection_tool>
   <inspection_tool class="WhileCanBeForeach" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="WhileLoopSpinsOnField" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreNonEmtpyLoops" value="true" />
