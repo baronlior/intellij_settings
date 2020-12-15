@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Libs/TestingLib/src/main/java/com/ni/test [skyscraper.TestingLib]'" />
-    <option name="defaultScopeName" value="Directory '.../Libs/TestingLib/src/main/java/com/ni/test [skyscraper.TestingLib]'" />
+    <option name="customScope" value="Directory '.../Libs/TestingLib/src/main/java/com/ni [skyscraper.TestingLib]'" />
+    <option name="defaultScopeName" value="Directory '.../Libs/TestingLib/src/main/java/com/ni [skyscraper.TestingLib]'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Libs/TestingLib/src/main/java/com/ni/test [skyscraper.TestingLib]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../Libs/TestingLib/src/main/java/com/ni [skyscraper.TestingLib]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
